@@ -17,7 +17,7 @@
     <dependency>
         <groupId>org.json</groupId>
         <artifactId>json</artifactId>
-        <version>20210307</version> <!-- Puedes usar la versión más reciente -->
+        <version>20210307</version>
     </dependency>
     </dependencies>
 
